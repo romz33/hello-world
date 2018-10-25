@@ -5,3 +5,6 @@ IFT 220
 
 # added the hello world print to this read me file. this is the second branch. 
 print ("Hello world!")
+
+# added the collect users name script. 
+name = raw_input ("What is your name?")
